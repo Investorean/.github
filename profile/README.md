@@ -1,8 +1,7 @@
 # Investorean
 
-Stock screener app and analytic tools for multiple brokers
+Premium analytics platform for retail investors. Get stock news, portfolio tools, investing ideas, and broker-backed screeners.
 
-![Investorean preview](/profile/investorean-preview.png)
+![Investorean preview](/profile/preview.jpg)
 
-Website: [investorean.com](https://investorean.com)
-
+[investorean.com](https://investorean.com)
